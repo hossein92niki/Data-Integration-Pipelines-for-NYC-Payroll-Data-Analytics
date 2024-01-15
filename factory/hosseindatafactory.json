@@ -1,0 +1,9 @@
+{
+	"name": "hosseindatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a77472aa-a5f3-4e1d-bc09-7b815c27ab7b",
+		"tenantId": "e731159c-4162-40b6-b3da-d91af3266208"
+	}
+}
